@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AskAll</string>
+    <string name="service_description">Lets AskAll open your AI apps, type your question into each one and read the reply on screen. It only acts while you run a question, and it only reads the AI app it is currently asking.</string>
+</resources>
